@@ -1,0 +1,4 @@
+langchain_openai==1.6.0
+python-dotenv==1.2.3
+streamlit==1.63.0
+youtube_transcript_api==1.2.4
